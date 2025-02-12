@@ -1,3 +1,7 @@
+[idris2]
+url = "https://github.com/spcfox/Idris2"
+commit = "fetch-latest:list1-determining"
+
 [custom.all.elab-util]
 type = "local"
 path = "."
@@ -21,6 +25,6 @@ ipkg = "elab-util-test.ipkg"
 
 [custom.all.prettier]
 type   = "git"
-url    = "https://github.com/Z-snails/prettier"
-commit = "latest:main"
+url    = "https://github.com/spcfox/prettier"
+commit = "latest:list1"
 ipkg   = "prettier.ipkg"
